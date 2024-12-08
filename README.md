@@ -3,7 +3,7 @@
 # Image-logger-roblox
 A image logger for roblox cookies made with HTML
 
-![image(1)](https://user-images.githubusercontent.com/95067718/156745595-ea054b53-c968-4a72-9abc-78e6005112e6.jpg)
+![image)](https://user-images.githubusercontent.com/95067718/156745595-ea054b53-c968-4a72-9abc-78e6005112e6.jpg)
 
 # Tutorial
 So basically just make a stub using any stub maker like Lunar, then attach it to the stub here and add your image in the html!
